@@ -6,27 +6,15 @@ Neste tutorial, são introduziadas três formas — uma descendenten da outra �
 
 ## Screenshots
 
-### Screenshot I: logo à esquerda, menu no centro e contact à direita
-
-![screenshot 1](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/screenshot_navbar_1.png)
-
-### Screenshot 2: menu à esquerda, logo à direita
-
-![screenshot 2](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/screenshot_navbar_2.png)
-
-### Screenshot 3: logo à esquerda, menu à direita
-
-![screenshot 3](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/screenshot_navbar_3.png)
-
-
-
-### teste de barra
-
 ![](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/three_bars_translucent.png)
+
+(Screenshot 1: logo à esquerda, menu à direita; screenshot 2: logo à esquerda, menu no centro e contact à direita; screenshot 3: menu à esquerda, logo à direita.)
 
 ## O que eu aprendi
 
 * transição (CSS) usando a seguinte sintaxe: `transition: all 0.3s ease 0s;`
+* contatenação de comandos do Git no terminal
+  * Exemplo: `git add . && git commit -m "fix typo && git push origin master"`
 
 ## Bibliografia
 
