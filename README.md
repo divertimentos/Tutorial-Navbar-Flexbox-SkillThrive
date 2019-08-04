@@ -1,9 +1,5 @@
 # README
 
-## O que eu aprendi
-
-* transição (CSS) usando a seguinte sintaxe: `transition: all 0.3s ease 0s;`
-
 ## Screenshots
 
 ### Screenshot I: logo à esquerda, menu no dentro e contact à direita
@@ -17,4 +13,13 @@
 ### Screenshot 3: logo à esquerda, menu à direita
 
 ![screenshot 3](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/screenshot_navbar_3.png)
+
+## O que eu aprendi
+
+* transição (CSS) usando a seguinte sintaxe: `transition: all 0.3s ease 0s;`
+
+## Bibliografia
+
+* **Tutorial**: https://www.youtube.com/watch?v=PwWHL3RyQgk (SkillThrive)
+* **Artigo**: [Using SVG](https://css-tricks.com/using-svg/) (CSS-Tricks)
 
