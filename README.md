@@ -1,4 +1,8 @@
-# README
+# Navbar CSS Tutorial: 3 Ways to Create a Navigation Bar with Flexbox
+
+## Introdução
+
+Neste tutorial, são introduziadas três formas — uma descendenten da outra — de criar navbars simples usando o flexbox.
 
 ## Screenshots
 
@@ -13,6 +17,12 @@
 ### Screenshot 3: logo à esquerda, menu à direita
 
 ![screenshot 3](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/screenshot_navbar_3.png)
+
+
+
+### teste de barra
+
+![]()
 
 ## O que eu aprendi
 
