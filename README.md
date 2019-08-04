@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-### Screenshot I: logo à esquerda, menu no dentro e contact à direita
+### Screenshot I: logo à esquerda, menu no centro e contact à direita
 
 ![screenshot 1](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/screenshot_navbar_1.png)
 
