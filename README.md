@@ -22,7 +22,7 @@ Neste tutorial, são introduziadas três formas — uma descendenten da outra �
 
 ### teste de barra
 
-![]()
+![](https://github.com/guiemi-learning-center/tutorial-navbar-flexbox-skillthrive/blob/master/media/three_bars_15.png)
 
 ## O que eu aprendi
 
