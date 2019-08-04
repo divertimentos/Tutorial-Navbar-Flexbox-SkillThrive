@@ -13,7 +13,7 @@ Neste tutorial, são introduziadas três formas — uma descendenten da outra �
 ## O que eu aprendi
 
 * transição (CSS) usando a seguinte sintaxe: `transition: all 0.3s ease 0s;`
-* contatenação de comandos do Git no terminal
+* concatenação de comandos do Git no terminal
   * Exemplo: `git add . && git commit -m "fix typo && git push origin master"`
 
 ## Bibliografia
